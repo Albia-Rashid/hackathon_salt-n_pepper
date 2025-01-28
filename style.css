@@ -1,0 +1,250 @@
+.body {
+    background-color: black;
+    overflow-x: hidden;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.nav-image {
+    margin-left: 100px;
+}
+
+.Contact {
+    margin-right: 50px;
+}
+
+.get-a-f {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 13px;
+    border-radius: 50px;
+    margin-right: 20px;
+}
+.get-a-f:hover {
+    background-color: #68090c;
+}
+.order-online {
+    background-color: #ED1C24;
+    color: white;
+    padding: 15px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.arrow {
+    color: #ED1C24;
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    align-content: center;
+    border-radius: 100px;
+    margin-left: 7px;
+
+}
+
+.welcome {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+.salt {
+    font-family: futurak;
+    font-size: 35px;
+    font-family: "Lobster", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+
+}
+
+.please {
+    color: rgba(255, 255, 255, 0.7);
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+text-align: center;
+}
+
+
+
+
+
+.reverse {
+    margin-top: 60px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 13px;
+    border-radius: 50px;
+    margin-right: 20px;
+}
+
+.brands-section {
+    font-family: "Poppins";
+    font-weight: 400;
+    font-style: normal;
+    background-color: black;
+    width: 100%;
+    padding: 0px 15px 0px 15px;
+    padding-top: 70px;
+    color: white;
+    padding-bottom: 70px;
+}
+
+.head {
+    text-align: center;
+}
+
+.heading h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 8px;
+}
+
+.heading p {
+    margin-bottom: 40px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.salt{
+    font-family: "Lobster", serif;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 8px;
+    font-size: 50px;
+}
+
+.brand-list {
+  display: flex;
+  justify-content: center;
+}
+
+.restaurant > img , .express > img , .village > img {
+    background-color: #fff;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    padding: 19px;
+}
+
+.order-btn {
+    text-align: center;
+    display: inline-block;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 35px;
+    padding: 12px 30px;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    margin-left: 58px;
+    text-decoration: none;
+    margin-bottom: 40px;
+}
+
+#btn-div {
+    width: 250px;
+}
+
+.s-back {
+    background-image: url(https://images-beta.tossdown.com/site/bb1bd702-431a-4f3a-a0ca-c5966a1f7985.webp);
+    background-repeat: no-repeat;
+ background-position: right;
+}
+
+.salt-two {
+    font-family: "Lobster", serif;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 8px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+.restaurant-franch {
+color: white;
+font-size: 40px;
+font-family: 'butler';
+text-align: center;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.isl {
+    font-family: 'apercu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.48em;
+    text-transform: uppercase;
+    color: #ED1C24;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.salt-three {
+    font-family: "Lobster", serif;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 8px;
+    font-size: 50px;
+    color: white;
+}
+
+.location-icon  {
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 10px;
+}
+
+.isl-text {
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 10px;
+}
+.phone {
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 10px;
+}
+
+.phone-text {
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 10px;
+}
+
+.image-beta {
+    margin-right: 900px;
+}
